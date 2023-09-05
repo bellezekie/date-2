@@ -2,7 +2,6 @@
 # - DASM
 # - CC65
 
-# Assembled binaries and object directories
 obj/
 a.out
 *.bin
